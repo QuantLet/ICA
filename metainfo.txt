@@ -1,0 +1,13 @@
+Name of Quantlet: ICA
+
+Published in: 'DEDA_Indepedent Component Analysis'
+
+Description: 'Use ICA to recover independent original source'
+
+Keywords: 'Independent component analysis, Blind source seperation, original source,'
+
+Author: Keyan Liu
+
+See also: ''
+
+Submitted: 'Sun, Dec 1 2018 by Keyan Liu'
